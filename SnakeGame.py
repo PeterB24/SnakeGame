@@ -120,7 +120,7 @@ if __name__ == "__main__":
     red = (255,0,0)
     black = (0,0,0)
     window_color = (200,200,200)
-    apple_image = pygame.image.load('SnakeGameApple.png')
+    apple_image = pygame.image.load('Apple_icon.png')
     clock=pygame.time.Clock() 
     
     snake_head = [250,250]
