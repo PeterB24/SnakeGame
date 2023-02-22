@@ -1,3 +1,5 @@
+# PNG from <a href='https://pngtree.com/so/red'>red png from pngtree.com/</a>
+
 import pygame
 import numpy as np
 import time
@@ -118,7 +120,7 @@ if __name__ == "__main__":
     red = (255,0,0)
     black = (0,0,0)
     window_color = (200,200,200)
-    apple_image = pygame.image.load('apple.jpg')
+    apple_image = pygame.image.load('SnakeGameApple.png')
     clock=pygame.time.Clock() 
     
     snake_head = [250,250]
